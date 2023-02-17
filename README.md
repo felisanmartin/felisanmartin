@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning, Data Science & Biomedical Engineering
 ----------------------------------------------------
 
-Passionate and self-driven Artificial Intelligence and Biomedical Engineering specialist. Possessing strong attention to detail and the ability to solve complex scientific and business problems using analytical skills. Currently enrolled in an Artificial Intelligence Master’s Degree in the International University of Valencia. My goal is to figure out how human thought works using math and improve the worlds health and well-being.
+Passionate and self-driven Artificial Intelligence and Biomedical Engineering specialist. Possessing strong attention to detail and the ability to solve complex scientific and business problems using analytical skills. Currently working as a Data Scientist at Aily Labs! And enrolled in an Artificial Intelligence Master’s Degree in the International University of Valencia. My goal is to figure out how human thought works using math and improve the worlds health and well-being.
 
 *   🌍  I'm based in Vigo, Spain
 *   ✉️  You can contact me at [felisanan@gmail.com](mailto:felisanan@gmail.com)

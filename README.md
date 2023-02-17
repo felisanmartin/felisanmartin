@@ -11,7 +11,8 @@ Passionate and self-driven Artificial Intelligence and Biomedical Engineering sp
 *   🚀  Currently working on: AI program to detect bone fractures in X-Ray images
 *   🧠  I'm learning Machine Learning, Data Science, Deep Learning
 *   🤝  I'm open to collaborating on AI research and Machine Learning solutions for preventing global warming, optimizing renewable energies and improve the world's health.
-                  ### Socials
+                  
+### Socials
                   
                   
 <p align="left">
